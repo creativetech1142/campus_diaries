@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Ace the Academics.",
+      "subTitle": "Get access to all the past year question papers, classroom notes, lab work and other cool stuff.",
+      "image": "/images/misc/1.png",
+      "alt": "Tiger King on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "Keep yourself updated",
+      "subTitle": "Get all the latest updates regarding educational, cultural events and workshops.",
+      "image": "/images/misc/2.png",
+      "alt": "Watch on mobile",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Wanna join us ?",
+      "subTitle": "Feel free to contact if you want to contribute something for the college",
+      "image": "/images/misc/3.png",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    }
+  ]
