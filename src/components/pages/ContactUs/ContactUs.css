@@ -5,7 +5,7 @@
 
 .mainContent {
     margin: 0 auto;
-    display: inline-flex;
+    display: flex;
     justify-content: space-around;
     width: 80%;
 }
@@ -23,4 +23,18 @@
 
 .inputText {
     margin: 2px;
+}
+
+.submit {
+    margin-top: 8px;
+    width: 100%;
+    padding: 1em;
+    background-color: rgb(6, 209, 216);
+    border: none;
+    color: white;
+    font-size: medium;
+}
+
+.form button:hover {
+    background-color: rgb(14, 234, 241);
 }

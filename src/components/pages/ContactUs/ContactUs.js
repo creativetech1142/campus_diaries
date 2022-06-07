@@ -15,8 +15,9 @@ const ContactUs = () => {
                 <InputText label="Email" />
                 <label>
                     Message <RequiredField />
-                    <textarea />
+                    <textarea required/>
                 </label>
+                <button type='submit' className='submit'>Submit</button>
             </form>
             <img src={Image} height={280} width={280} />
         </div>
