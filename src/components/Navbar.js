@@ -6,9 +6,11 @@ import Academics from "./pages/academics";
 import Home from "./pages/home";
 import OurTeam from "../components/pages/Our Team/ourTeam";
 import Pupedia from "./pages/pupedia";
-import ContactUs from "./pages/contactUs";
 import Updates from "./pages/updates";
 import ScrollToTop from './pages/ScrollToTop'
+import ContactUs from './pages/ContactUs/ContactUs';
+
+
 function Navbar() {
   const [click, setClick] = useState(false);
   const [navbar,setNavbar] = useState(false);
